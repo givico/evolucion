@@ -1,11 +1,6 @@
 # evolucion
 ﻿De Revoluciones a una evolución única.
 
-La revolución es de quien cree de poder cambiar el mundo,
-la evolución es de quien comprende que para lograrlo tiene que cambiar a si mismo.
-La revolución es un acto de arrogancia, colectivo, de pocos.
-La evolución es un acto de humilde, individual, de todos.
-
 El siguiente texto está compuesto de 4 secciones.
 
 1\. Introducción. Un posible ejemplo de hacia donde pudiéramos
